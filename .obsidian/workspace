@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "identification.md",
+            "file": "do-calculus.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "identification.md",
+                "file": "do-calculus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "5250c285f86cadc5",
   "lastOpenFiles": [
+    "Untitled.md",
+    "causal networks.md",
     "identification.md",
     "dowhy.md",
     "causalml.md",
-    "Untitled.md",
     "heterogeneous treatment effects.md",
     "EconML.md",
     "athey 2017 - policy learning.pdf",
     "pdfs/syrgkanis 2019 - ML heterogenous effects.pdf",
-    "pdfs/spirtes - causal inference.pdf",
-    "pdfs/sharma 2020 - dowhy.pdf"
+    "pdfs/spirtes - causal inference.pdf"
   ]
 }
