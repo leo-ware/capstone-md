@@ -7,8 +7,11 @@
         "id": "5250c285f86cadc5",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "heterogeneous treatment effects.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "heterogeneous treatment effects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +88,15 @@
   },
   "active": "5250c285f86cadc5",
   "lastOpenFiles": [
+    "heterogeneous treatment effects.md",
+    "EconML.md",
+    "Untitled.md",
     "athey 2017 - policy learning.pdf",
     "pdfs/syrgkanis 2019 - ML heterogenous effects.pdf",
     "pdfs/spirtes - causal inference.pdf",
     "pdfs/sharma 2020 - dowhy.pdf",
     "pdfs/oprescu 2019 - orthogonal random forests.pdf",
-    "EconML.md",
     "dowhy.md",
-    "causalml.md",
-    "Amit Sharma.md",
-    "free writing exercise.md"
+    "causalml.md"
   ]
 }
