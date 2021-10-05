@@ -1,4 +1,4 @@
-#library 
+#libraries 
 
 A library for causal inference
 - authors: [[Amit Sharma]]
