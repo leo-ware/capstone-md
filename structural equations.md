@@ -1,0 +1,1 @@
+"=" is bidirectional. So, we introduce the unidirectional ":=". This is the set-equal operator from computer science. $B := f(A)$ means that A causes B.

@@ -9,6 +9,6 @@ Idea is that other libraries (which?) spend too much time on [[estimation]] and 
 - model = incorporate prior information
 - identify = identify causal graph
 - estimate = estimate causal treatment effect
-	- uses [[do-calculus]]  and graph based methods to work out an expression
+	- uses [[backdoor adjustment]]  and graph based methods to work out an expression
 	- plug and play with [[EconML]] and [[causalml]]
 - robustness checking
