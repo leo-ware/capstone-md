@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "backdoor adjustment.md",
+            "file": "structural models.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backdoor adjustment.md",
+                "file": "structural models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "5250c285f86cadc5",
   "lastOpenFiles": [
+    "structural equations.md",
     "backdoor adjustment.md",
     "Untitled.md",
     "causal networks.md",
@@ -96,7 +97,6 @@
     "causalml.md",
     "heterogeneous treatment effects.md",
     "EconML.md",
-    "athey 2017 - policy learning.pdf",
-    "pdfs/syrgkanis 2019 - ML heterogenous effects.pdf"
+    "athey 2017 - policy learning.pdf"
   ]
 }
