@@ -7,4 +7,4 @@ A few important caveats/constraints
 ## Important Patterns
 ![[Pasted image 20211006001856.png]]
 
-In a chain or a fork, x1 and x3 are associated until you condition on x2.
+In a chain or a fork, x1 and x3 are associated until you condition on x2. It blocks the path. In an immorality, conditioning on x2 associates x1 and x2. (x2 is a *collider*)
