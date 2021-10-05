@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "heterogeneous treatment effects.md",
+            "file": "instrument variables.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "heterogeneous treatment effects.md",
+                "file": "instrument variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "5250c285f86cadc5",
   "lastOpenFiles": [
+    "Untitled.md",
     "heterogeneous treatment effects.md",
     "EconML.md",
-    "Untitled.md",
     "athey 2017 - policy learning.pdf",
     "pdfs/syrgkanis 2019 - ML heterogenous effects.pdf",
     "pdfs/spirtes - causal inference.pdf",
