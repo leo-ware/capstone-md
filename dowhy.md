@@ -1,6 +1,7 @@
 #library 
 
 A library for causal inference
+- authors: [[Amit Sharma]]
 - paper: [[sharma 2020 - dowhy.pdf]]
 - github: [github/dowhy](https://github.com/microsoft/dowhy)
 

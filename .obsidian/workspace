@@ -4,12 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "845d6c5cc0586f1e",
+        "id": "5250c285f86cadc5",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "causalml.md",
+            "mode": "source"
+          }
+        },
+        "group": "1b20859c23b69d33"
+      },
+      {
+        "id": "12cb0d4b12573217",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "causalml.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          }
+        },
+        "group": "1b20859c23b69d33"
       }
     ],
     "direction": "vertical"
@@ -65,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "causalml.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,13 +123,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "845d6c5cc0586f1e",
+  "active": "12cb0d4b12573217",
   "lastOpenFiles": [
     "causalml.md",
+    "Amit Sharma.md",
+    "EconML.md",
     "dowhy.md",
+    "free writing exercise.md",
+    "sharma 2020 - dowhy.pdf",
     "free writing excercise.md",
     "requirements.md",
-    "sharma 2020 - dowhy.pdf",
     "github.com/dowhy.md",
     "Untitled.md"
   ]

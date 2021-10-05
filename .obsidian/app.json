@@ -1,5 +1,7 @@
 {
   "spellcheck": true,
-  "attachmentFolderPath": "./",
-  "showUnsupportedFiles": true
+  "attachmentFolderPath": "attachments",
+  "showUnsupportedFiles": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }
