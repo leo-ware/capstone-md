@@ -7,11 +7,8 @@
         "id": "5250c285f86cadc5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "EconML.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EconML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +84,15 @@
   },
   "active": "5250c285f86cadc5",
   "lastOpenFiles": [
+    "athey 2017 - policy learning.pdf",
+    "pdfs/syrgkanis 2019 - ML heterogenous effects.pdf",
+    "pdfs/spirtes - causal inference.pdf",
+    "pdfs/sharma 2020 - dowhy.pdf",
+    "pdfs/oprescu 2019 - orthogonal random forests.pdf",
     "EconML.md",
     "dowhy.md",
     "causalml.md",
     "Amit Sharma.md",
-    "free writing exercise.md",
-    "sharma 2020 - dowhy.pdf",
-    "free writing excercise.md",
-    "requirements.md",
-    "github.com/dowhy.md",
-    "Untitled.md"
+    "free writing exercise.md"
   ]
 }
