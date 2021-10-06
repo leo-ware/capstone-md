@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "causal networks.md",
+            "file": "collider bias.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "causal networks.md",
+                "file": "collider bias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "5250c285f86cadc5",
   "lastOpenFiles": [
+    "collider bias.md",
     "causal networks.md",
     "Untitled.md",
     "structural equations.md",
@@ -96,7 +97,6 @@
     "dowhy.md",
     "causalml.md",
     "heterogeneous treatment effects.md",
-    "EconML.md",
-    "athey 2017 - policy learning.pdf"
+    "EconML.md"
   ]
 }
