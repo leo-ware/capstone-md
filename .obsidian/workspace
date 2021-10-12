@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "collider bias.md",
-            "mode": "preview"
+            "file": "structural models.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "collider bias.md",
+                "file": "structural models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "5250c285f86cadc5",
   "lastOpenFiles": [
+    "structural models.md",
+    "instrument variables.md",
     "collider bias.md",
     "causal networks.md",
     "Untitled.md",
@@ -95,8 +97,6 @@
     "backdoor adjustment.md",
     "identification.md",
     "dowhy.md",
-    "causalml.md",
-    "heterogeneous treatment effects.md",
-    "EconML.md"
+    "causalml.md"
   ]
 }

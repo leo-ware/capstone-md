@@ -17,3 +17,5 @@ I --|
 ```
 
 Basically, even if we can't *assign* treatment, we might be able to *nudge* treatment (or find data about a nudge). We can still get a causal effect even though some people ignore the nudge.
+
+[[Natural Experiments]] are a subset of instrument variable designs
