@@ -20,7 +20,8 @@
     "positivity",
     "subpopulations",
     "tradeoff",
-    "Ignorability"
+    "Ignorability",
+    "Exchangability"
   ],
   "fileSortOrder": "byModifiedTimeReverse"
 }

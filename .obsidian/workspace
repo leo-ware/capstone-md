@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ignorability & exchangability.md",
+            "file": "propensity score.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ignorability & exchangability.md",
+                "file": "propensity score.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "e3931179970f79b8",
   "lastOpenFiles": [
+    "propensity score.md",
     "Untitled.md",
     "positivity vs unconfoundedness tradeoff.md",
-    "propensity score.md",
     "g-computation.md",
     "chatton 2020 - g-computation sim.pdf.md",
     "double robust estimator.md",

@@ -1,7 +1,9 @@
 Two perspectives on the same thing:
 
-Ignorability:
+**Ignorability:**
 
 $$(Y(1), Y(0)) \_||\_ T$$
 
-Exchangability
+**Exchangability:**
+
+If we had instead treated the control group and not treated the treatment group, we would see the same result.
