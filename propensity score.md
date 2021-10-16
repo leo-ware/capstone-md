@@ -1,3 +1,5 @@
+#identification 
+
 The propensity score is the probability of receiving treatment given relevant covariates.
 
 We only care about confounders in the first place because of how they influence P(T). The propensity score basically encodes all the relevant information here. If we condition on the true propensity score given some covariates W, then the remaining association can be attributed the causal effect, assuming positivity and unconfoundedness.

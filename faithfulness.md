@@ -1,0 +1,1 @@
+Converse of the [[local markov assumption]]. This assumption states that if two 

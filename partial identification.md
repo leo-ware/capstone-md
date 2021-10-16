@@ -1,3 +1,5 @@
+#identification #bounds
+
 Make weaker assumptions, get stronger results. Partial identification is about bounding the ATE using extremely weak assumptions.
 
 The **no assumptions bound** says that If $a < Y < b$, e.g. is the outcome is lower and upper bounded by a and b, then:
