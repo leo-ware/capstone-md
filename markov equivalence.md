@@ -1,4 +1,4 @@
-#networks
+#networks #discovery #assumptions 
 
 Two graphs are Markov equivalent if they imply the same set of dependencies and independencies. Chains and forks are Markov equivalent (says Neal... Is this true?). Immoralities are special.
 
