@@ -7,10 +7,9 @@
         "id": "5250c285f86cadc5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Untitled.md",
-            "mode": "source"
+            "file": "pdfs/spirtes - causal inference.pdf"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "pdfs/spirtes - causal inference.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +87,15 @@
   },
   "active": "5250c285f86cadc5",
   "lastOpenFiles": [
-    "Untitled.md",
+    "pdfs/spirtes - causal inference.pdf",
+    "pdfs/pearl 2009 - causality.pdf",
+    "do-calculus.md",
+    "people/Judea Pearl.md",
     "identification.md",
+    "Untitled.md",
+    "dowhy.md",
+    "causalml.md",
     "unconfounded children criterion.md",
-    "frontdoor adjustment.md",
-    "causal networks.md",
-    "covariate balance.md",
-    "backdoor adjustment.md",
-    "modularity assumption.md",
-    "structural models.md",
-    "instrument variables.md"
+    "frontdoor adjustment.md"
   ]
 }
