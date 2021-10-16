@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "structural models.md",
-            "mode": "source"
+            "file": "backdoor adjustment.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "structural models.md",
+                "file": "backdoor adjustment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +88,13 @@
   },
   "active": "5250c285f86cadc5",
   "lastOpenFiles": [
+    "backdoor adjustment.md",
+    "Untitled.md",
     "structural models.md",
     "instrument variables.md",
     "collider bias.md",
     "causal networks.md",
-    "Untitled.md",
     "structural equations.md",
-    "backdoor adjustment.md",
     "identification.md",
     "dowhy.md",
     "causalml.md"
