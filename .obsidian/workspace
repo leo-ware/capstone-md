@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "double robust estimator.md",
+            "file": "propensity score.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "double robust estimator.md",
+                "file": "propensity score.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "bb53fe51464eca68",
   "lastOpenFiles": [
+    "propensity score.md",
     "Untitled.md",
     "attachments/Pasted image 20211016152246.png",
     "attachments/Pasted image 20211016142341.png",
@@ -96,7 +97,6 @@
     "attachments/Pasted image 20211006005956.png",
     "attachments/Pasted image 20211006005832.png",
     "attachments/Pasted image 20211006001856.png",
-    "attachments/Pasted image 20211005230231.png",
-    "resources/causalcourse.com.md"
+    "attachments/Pasted image 20211005230231.png"
   ]
 }
