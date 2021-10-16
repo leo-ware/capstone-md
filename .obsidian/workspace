@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "positivity vs unconfoundedness tradeoff.md",
+            "file": "ignorability & exchangability.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "positivity vs unconfoundedness tradeoff.md",
+                "file": "ignorability & exchangability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "e3931179970f79b8",
   "lastOpenFiles": [
-    "positivity vs unconfoundedness tradeoff.md",
     "Untitled.md",
+    "positivity vs unconfoundedness tradeoff.md",
     "propensity score.md",
     "g-computation.md",
     "chatton 2020 - g-computation sim.pdf.md",
