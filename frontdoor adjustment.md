@@ -9,8 +9,10 @@ Here is the formula for that adjustment:
 
 ![[Pasted image 20211016142341.png]]
 
-To do this though, we need to make some big, scary adjustments.
+To do this though, we need to make some big, scary assumptions.
 
-
+1. M completely mediates the effect of T on Y.
+2. There are no unblocked backdoor paths from T to M.
+3. All backdoor paths from M to Y are blocked by T.
 
 I wonder if the two of these could be used together to sanity check each other/ think about the consistency of a candidate SCM.

@@ -1,0 +1,1 @@
+How do we identify the effect of T on Y if neither the [[backdoor adjustment]] nor the [[frontdoor adjustment]] work?
