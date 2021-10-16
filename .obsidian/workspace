@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "propensity score.md",
+            "file": "backdoor adjustment.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "propensity score.md",
+                "file": "backdoor adjustment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "e3931179970f79b8",
   "lastOpenFiles": [
+    "backdoor adjustment.md",
+    "double robust estimator.md",
+    "pseudodataset.md",
+    "matching.md",
     "propensity score.md",
+    "inverse probability weighting.md",
     "Untitled.md",
     "positivity vs unconfoundedness tradeoff.md",
     "g-computation.md",
-    "chatton 2020 - g-computation sim.pdf.md",
-    "double robust estimator.md",
-    "attachments/Pasted image 20211016152246.png",
-    "attachments/Pasted image 20211016142341.png",
-    "attachments/Pasted image 20211016141801.png",
-    "attachments/Pasted image 20211006012036.png"
+    "chatton 2020 - g-computation sim.pdf.md"
   ]
 }

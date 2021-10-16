@@ -7,10 +7,14 @@ This might seem like it solves the [[positivity vs unconfoundedness tradeoff]] b
 Also, d'apres Gary King propensity score matching is super overused and massively biased.
 https://www.youtube.com/watch?v=rBv39pK1iEs
 
-model that predicts treatment given covariates, used in a number of ways
+However, this isn't the only way to use propensity scores. There is also:
 - matching
 - stratification
 - conditional adjustment
-- inverse probability of treatment weighting
+- inverse probability of weighting
 
-generally super biased and not great, also pretty popular
+**IPW**
+
+In inverse probability weighting, we create a [[pseudodataset]] using the propensity score. 
+
+![[Pasted image 20211016230812.png]]
