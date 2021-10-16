@@ -1,0 +1,1 @@
+A node is independent from its non-descendants given its parents.
