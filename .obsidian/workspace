@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "propensity score.md",
+            "file": "g-computation.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "propensity score.md",
+                "file": "g-computation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "bb53fe51464eca68",
   "lastOpenFiles": [
+    "g-computation.md",
+    "double robust estimator.md",
     "propensity score.md",
     "Untitled.md",
     "attachments/Pasted image 20211016152246.png",
@@ -95,8 +97,6 @@
     "attachments/Pasted image 20211016141801.png",
     "attachments/Pasted image 20211006012036.png",
     "attachments/Pasted image 20211006005956.png",
-    "attachments/Pasted image 20211006005832.png",
-    "attachments/Pasted image 20211006001856.png",
-    "attachments/Pasted image 20211005230231.png"
+    "attachments/Pasted image 20211006005832.png"
   ]
 }
