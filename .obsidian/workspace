@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "sensitivity analysis.md",
+            "file": "g-computation.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sensitivity analysis.md",
+                "file": "g-computation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "e3931179970f79b8",
   "lastOpenFiles": [
+    "g-computation.md",
+    "unconfounded children criterion.md",
+    "instrument variables.md",
     "Untitled.md",
     "matching.md",
     "doubly robust estimator.md",
     "propensity score.md",
     "ignorability & exchangability.md",
     "truncated factorization.md",
-    "hedge criterion.md",
-    "positivity vs unconfoundedness tradeoff.md",
-    "g-computation.md",
-    "frontdoor adjustment.md"
+    "hedge criterion.md"
   ]
 }

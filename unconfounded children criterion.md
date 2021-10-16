@@ -1,3 +1,5 @@
+#identification #assumptions 
+
 More conditions for identifiability
 
 Sufficient condition:
