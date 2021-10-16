@@ -28,7 +28,8 @@
     "confounder",
     "independencies",
     "iff",
-    "undirected"
+    "undirected",
+    "acyclicity"
   ],
   "fileSortOrder": "byModifiedTimeReverse"
 }

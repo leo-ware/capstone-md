@@ -89,6 +89,7 @@
   "active": "e3931179970f79b8",
   "lastOpenFiles": [
     "causal discovery.md",
+    "PC causal discovery algorithm.md",
     "markov equivalence.md",
     "Untitled.md",
     "faithfulness.md",
@@ -96,7 +97,6 @@
     "partial identification.md",
     "sensitivity analysis.md",
     "causal trees & forests.md",
-    "double machine learning.md",
-    "hedge criterion.md"
+    "double machine learning.md"
   ]
 }
