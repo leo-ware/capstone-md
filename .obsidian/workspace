@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "doubly robust estimator.md",
-            "mode": "source"
+            "file": "double machine learning.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "doubly robust estimator.md",
+                "file": "double machine learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "e3931179970f79b8",
   "lastOpenFiles": [
+    "Untitled.md",
+    "matching.md",
     "doubly robust estimator.md",
     "propensity score.md",
     "ignorability & exchangability.md",
-    "matching.md",
     "truncated factorization.md",
     "hedge criterion.md",
     "positivity vs unconfoundedness tradeoff.md",
     "g-computation.md",
-    "frontdoor adjustment.md",
-    "collider bias.md"
+    "frontdoor adjustment.md"
   ]
 }

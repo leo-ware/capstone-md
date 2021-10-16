@@ -22,7 +22,8 @@
     "tradeoff",
     "Ignorability",
     "Exchangability",
-    "dimensionality"
+    "dimensionality",
+    "covariate"
   ],
   "fileSortOrder": "byModifiedTimeReverse"
 }
