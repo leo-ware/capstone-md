@@ -15,6 +15,6 @@ However, this isn't the only way to use propensity scores. There is also:
 
 **IPW**
 
-In inverse probability weighting, we create a [[pseudodataset]] using the propensity score. 
+In inverse probability weighting, we create a [[pseudodataset]] using the propensity score. There is trickiness here when trying to get the [[CATE]]
 
 ![[Pasted image 20211016230812.png]]

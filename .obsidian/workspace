@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "propensity score.md",
+            "file": "doubly robust estimator.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "propensity score.md",
+                "file": "doubly robust estimator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "e3931179970f79b8",
   "lastOpenFiles": [
+    "doubly robust estimator.md",
     "propensity score.md",
     "ignorability & exchangability.md",
     "matching.md",
@@ -96,7 +97,6 @@
     "positivity vs unconfoundedness tradeoff.md",
     "g-computation.md",
     "frontdoor adjustment.md",
-    "collider bias.md",
-    "sufficient adjustment set.md"
+    "collider bias.md"
   ]
 }
