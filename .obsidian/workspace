@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5250c285f86cadc5",
+        "id": "bb53fe51464eca68",
         "type": "leaf",
         "state": {
-          "type": "pdf",
-          "state": {
-            "file": "pdfs/spirtes - causal inference.pdf"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -67,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pdfs/spirtes - causal inference.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5250c285f86cadc5",
+  "active": "bb53fe51464eca68",
   "lastOpenFiles": [
-    "pdfs/spirtes - causal inference.pdf",
-    "pdfs/pearl 2009 - causality.pdf",
-    "do-calculus.md",
-    "people/Judea Pearl.md",
-    "identification.md",
     "Untitled.md",
-    "dowhy.md",
-    "causalml.md",
-    "unconfounded children criterion.md",
-    "frontdoor adjustment.md"
+    "attachments/Pasted image 20211016152246.png",
+    "attachments/Pasted image 20211016142341.png",
+    "attachments/Pasted image 20211016141801.png",
+    "attachments/Pasted image 20211006012036.png",
+    "attachments/Pasted image 20211006005956.png",
+    "attachments/Pasted image 20211006005832.png",
+    "attachments/Pasted image 20211006001856.png",
+    "attachments/Pasted image 20211005230231.png",
+    "resources/causalcourse.com.md"
   ]
 }
