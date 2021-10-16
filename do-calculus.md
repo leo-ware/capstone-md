@@ -2,4 +2,4 @@ How do we identify the effect of T on Y if neither the [[backdoor adjustment]] n
 
 ## Rules of do-calculus
 
-1. $P(y | do(t))$
+1. $P(y | do(t), z, w) = P(y | do(t), w)$ if $Y _|_ Z | T, W$
