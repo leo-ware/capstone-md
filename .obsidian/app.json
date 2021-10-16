@@ -23,7 +23,8 @@
     "Ignorability",
     "Exchangability",
     "dimensionality",
-    "covariate"
+    "covariate",
+    "associational"
   ],
   "fileSortOrder": "byModifiedTimeReverse"
 }
