@@ -9,6 +9,7 @@
     "Modularity",
     "modularity",
     "noncausal",
-    "confounders"
+    "confounders",
+    "covariates"
   ]
 }

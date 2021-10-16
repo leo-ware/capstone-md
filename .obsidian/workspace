@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "covariate balance.md",
+            "file": "causal networks.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "covariate balance.md",
+                "file": "causal networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "5250c285f86cadc5",
   "lastOpenFiles": [
+    "causal networks.md",
+    "covariate balance.md",
     "Untitled.md",
     "backdoor adjustment.md",
     "modularity assumption.md",
     "structural models.md",
     "instrument variables.md",
     "collider bias.md",
-    "causal networks.md",
     "structural equations.md",
-    "identification.md",
-    "dowhy.md"
+    "identification.md"
   ]
 }
