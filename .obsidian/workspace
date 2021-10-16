@@ -7,8 +7,11 @@
         "id": "5250c285f86cadc5",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "backdoor adjustment.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "backdoor adjustment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,8 +88,8 @@
   },
   "active": "5250c285f86cadc5",
   "lastOpenFiles": [
-    "modularity assumption.md",
     "backdoor adjustment.md",
+    "modularity assumption.md",
     "Untitled.md",
     "structural models.md",
     "instrument variables.md",
