@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "bb53fe51464eca68",
+        "id": "e3931179970f79b8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "g-computation.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -86,9 +86,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bb53fe51464eca68",
+  "active": "e3931179970f79b8",
   "lastOpenFiles": [
     "g-computation.md",
+    "chatton 2020 - g-computation sim.pdf.md",
     "double robust estimator.md",
     "propensity score.md",
     "Untitled.md",
@@ -96,7 +97,6 @@
     "attachments/Pasted image 20211016142341.png",
     "attachments/Pasted image 20211016141801.png",
     "attachments/Pasted image 20211006012036.png",
-    "attachments/Pasted image 20211006005956.png",
-    "attachments/Pasted image 20211006005832.png"
+    "attachments/Pasted image 20211006005956.png"
   ]
 }
