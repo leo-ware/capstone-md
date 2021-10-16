@@ -25,7 +25,10 @@
     "dimensionality",
     "covariate",
     "associational",
-    "confounder"
+    "confounder",
+    "independencies",
+    "iff",
+    "undirected"
   ],
   "fileSortOrder": "byModifiedTimeReverse"
 }

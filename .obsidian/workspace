@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "causal discovery.md",
+            "file": "markov equivalence.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "causal discovery.md",
+                "file": "markov equivalence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "e3931179970f79b8",
   "lastOpenFiles": [
+    "Untitled.md",
     "causal discovery.md",
     "faithfulness.md",
     "local markov assumption.md",
-    "Untitled.md",
     "partial identification.md",
     "sensitivity analysis.md",
     "causal trees & forests.md",
