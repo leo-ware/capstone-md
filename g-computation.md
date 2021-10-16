@@ -6,6 +6,8 @@ Alternative formulation: you get a model for $P(Y | X, T)$. Then, you marginaliz
 
 The tricky bit is correctly specifying a model for outcome given treatment and covariates. But also you could just use like a random forest or something right?
 
-Pitfalls: this method can underestimate the effect of T in high-dimensional data.
+**Pitfalls and modifications**
+
+This method can underestimate the effect of T in high-dimensional data. One fix is to train one different model each on treatment and control. This is called grouped conditional outcomes model. Unfortunately, it can have higher variance than normal COM because it is not using the data efficiently. TARNet addresses the variance problem by training a single network with two heads: one for the treatment and one for the control group.
 
 #question: [[chatton 2020 - g-computation sim.pdf]] claims that you can do this for the ATT by just marginalizing using the treatment group, but I am skeptical. Won't the baseline characteristic of the population bias the model? e.g., if 90% of the study population is treated, and then the model will probably be better at predicting outcomes for treated guys than untreated guys. This means we will only be able to get ATE, not ATT and ATC? right?
