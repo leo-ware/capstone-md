@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "hedge criterion.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hedge criterion.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   "active": "5250c285f86cadc5",
   "lastOpenFiles": [
     "Untitled.md",
+    "identification.md",
     "unconfounded children criterion.md",
     "frontdoor adjustment.md",
     "causal networks.md",
@@ -96,7 +97,6 @@
     "backdoor adjustment.md",
     "modularity assumption.md",
     "structural models.md",
-    "instrument variables.md",
-    "collider bias.md"
+    "instrument variables.md"
   ]
 }
