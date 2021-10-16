@@ -1,0 +1,10 @@
+
+We have a graph that looks like this:
+
+![[Pasted image 20211016141801.png]]
+
+We can't see W. So, the [[backdoor adjustment]] is not going to work.
+
+Instead, we can first estimate the causal effect of T on M. Then, we can calculate the effect of M on Y. Basically, instead of making assumptions/providing knowledge about confounders, we make assumptions about the ways in which T can influence M.
+
+I wonder if the two of these could be used together to sanity check e
