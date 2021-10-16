@@ -1,3 +1,5 @@
+#identification 
+
 also called *conditional outcomes model (COM)*
 
 The most literal interpretation of the potential outcomes framework. You train a model to predict outcome given treatment and covariates. This is called the *Q-model* Then, you predict everyone's outcome but if they were treated. Then, you predict everyone's outcome but if they were untreated. Then, you compare the means.
