@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "propensity score.md",
+            "file": "positivity.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "propensity score.md",
+                "file": "positivity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,11 +88,11 @@
   },
   "active": "e3931179970f79b8",
   "lastOpenFiles": [
+    "Untitled.md",
     "propensity score.md",
     "g-computation.md",
     "chatton 2020 - g-computation sim.pdf.md",
     "double robust estimator.md",
-    "Untitled.md",
     "attachments/Pasted image 20211016152246.png",
     "attachments/Pasted image 20211016142341.png",
     "attachments/Pasted image 20211016141801.png",
