@@ -24,7 +24,8 @@
     "Exchangability",
     "dimensionality",
     "covariate",
-    "associational"
+    "associational",
+    "confounder"
   ],
   "fileSortOrder": "byModifiedTimeReverse"
 }
