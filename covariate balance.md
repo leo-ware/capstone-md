@@ -1,0 +1,1 @@
+If your treatment and control distributions are balance on some covariates

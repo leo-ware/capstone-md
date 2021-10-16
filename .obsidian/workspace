@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "backdoor adjustment.md",
+            "file": "covariate balance.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backdoor adjustment.md",
+                "file": "covariate balance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "5250c285f86cadc5",
   "lastOpenFiles": [
+    "Untitled.md",
     "backdoor adjustment.md",
     "modularity assumption.md",
-    "Untitled.md",
     "structural models.md",
     "instrument variables.md",
     "collider bias.md",
