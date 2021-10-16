@@ -89,14 +89,14 @@
   "active": "e3931179970f79b8",
   "lastOpenFiles": [
     "causal discovery.md",
-    "PC causal discovery algorithm.md",
     "markov equivalence.md",
+    "PC algorithm.md",
+    "PC causal discovery algorithm.md",
     "Untitled.md",
     "faithfulness.md",
     "local markov assumption.md",
     "partial identification.md",
     "sensitivity analysis.md",
-    "causal trees & forests.md",
-    "double machine learning.md"
+    "causal trees & forests.md"
   ]
 }
