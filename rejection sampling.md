@@ -6,12 +6,28 @@ We have a complicated pmf $f(x)$ which we want to sample from. We pick another d
 
 This works well when $Mg$ traces $f$ closely. It falls apart when they are not close because you end up rejecting lots of samples. This tends to happen for complicated/high dimensional $f$.
 
-Proof:
+### Proof:
 
-Let $D$ represent the density of the samples. Let $S$ represent the sample itself and $A$ represent the chance that we accept it.
+Let $D$ represent the density of the samples. Let $S$ represent the sample itself and $A$ represent the chance that we accept it. We want to prove that $D(S | A) = P(S)$.
 
 Then by Bayes theorem, the density of samples that we accept is equal to the probability that we we accept a sample given its value times the density of the sampling distribution at that value, divided by the unconditioned probability of acceptance.
 
 $$
 D(S | A) = {P(A | S)D(S) \over P(A)}
 $$
+
+Plug shit in:
+
+$$
+D(S | A) = {{f(s) \over Mg(S)} g(S) \over P(A)}
+$$
+
+But $P(A)$ will just be the integral of the probability of sampling times the probability of acceptance over all possible values of $s$.
+
+$$
+\int_{-\infty}^{\infty} g(s) {f(s) \over M g(s)} ds =
+{1 \over M} \int_{-\infty}^{\infty} f(s) ds
+$$
+
+We have:
+
