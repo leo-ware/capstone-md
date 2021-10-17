@@ -29,7 +29,11 @@
     "independencies",
     "iff",
     "undirected",
-    "acyclicity"
+    "acyclicity",
+    "markov",
+    "monte",
+    "carlo",
+    "pmf"
   ],
   "fileSortOrder": "byModifiedTimeReverse"
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "causal discovery.md",
+            "file": "accept-reject sampling.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "causal discovery.md",
+                "file": "accept-reject sampling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "e3931179970f79b8",
   "lastOpenFiles": [
+    "accept-reject sampling.md",
+    "Untitled.md",
     "causal discovery.md",
     "markov equivalence.md",
     "local markov assumption.md",
     "PC algorithm.md",
     "PC causal discovery algorithm.md",
-    "Untitled.md",
     "faithfulness.md",
     "partial identification.md",
-    "sensitivity analysis.md",
-    "causal trees & forests.md"
+    "sensitivity analysis.md"
   ]
 }
