@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e3931179970f79b8",
+        "id": "e2d45f7e71777be2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mediation.md",
+            "file": "hedge criterion.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mediation.md",
+                "file": "hedge criterion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e3931179970f79b8",
+  "active": "e2d45f7e71777be2",
   "lastOpenFiles": [
+    "hedge criterion.md",
+    "causal trees & forests.md",
     "mediation.md",
+    "resources/causalcourse.com.md",
     "computing counterfactuals.md",
     "structural models.md",
     "Untitled.md",
     "causal discovery.md",
-    "causal trees & forests.md",
-    "hedge criterion.md",
     "PC algorithm.md",
-    "inverse transform sampling.md",
-    "mcmc.md"
+    "inverse transform sampling.md"
   ]
 }

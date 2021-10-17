@@ -1,5 +1,6 @@
 We have a T which influences Y directly and via a set of mediating variables M. We want to measure what parts of the effect of T on Y are *direct* and which parts are *indirect*.
 
+
 ## controlled effects
 
 Naive approach: you get the *controlled direct effect (CDE)* by setting the mediators constant and moving the treatment.
@@ -10,6 +11,7 @@ $$CDE = E(Y | do(T=1, M)) - E(Y | do(T=0, M))$$
 - cons:
 	- we are limited to measuring the effect only for specific values of M
 	- this doesn't give us a way to get the indirect effect.
+
 
 ## natural effects
 
@@ -25,6 +27,7 @@ $$MDE = E(Y | do(T=0, M=E(M | do(T=1)))) - E(Y | do(T=0, M=E(M | do(T=0))))$$
 
 The total effect $TE$ is equal to the sum of these. (proof?)
 
+
 ## measuring natural effects
 
 If we have an adjustment set W such that:
@@ -36,3 +39,7 @@ Then we can use the following experimental quantity,
 
 Or, if we can use this expression if we make the above assumptions and also find ways to identify everything here:
 ![[Pasted image 20211017170434.png]]
+
+
+## more
+Neal recommends *Identifiability of Path Specific Effects* (Avin et al., 2005)
