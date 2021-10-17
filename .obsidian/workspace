@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "hedge criterion.md",
+            "file": "matching.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hedge criterion.md",
+                "file": "matching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "e2d45f7e71777be2",
   "lastOpenFiles": [
+    "matching.md",
+    "Untitled.md",
     "hedge criterion.md",
     "causal trees & forests.md",
     "mediation.md",
     "resources/causalcourse.com.md",
     "computing counterfactuals.md",
     "structural models.md",
-    "Untitled.md",
     "causal discovery.md",
-    "PC algorithm.md",
-    "inverse transform sampling.md"
+    "PC algorithm.md"
   ]
 }
