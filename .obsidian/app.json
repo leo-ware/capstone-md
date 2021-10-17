@@ -34,7 +34,10 @@
     "monte",
     "carlo",
     "pmf",
-    "univariate"
+    "univariate",
+    "Counterfactuals",
+    "counterfactuals",
+    "estimands"
   ],
   "fileSortOrder": "byModifiedTimeReverse"
 }

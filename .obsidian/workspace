@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "computing counterfactuals.md",
+            "file": "mediation.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computing counterfactuals.md",
+                "file": "mediation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "e3931179970f79b8",
   "lastOpenFiles": [
+    "mediation.md",
     "computing counterfactuals.md",
     "structural models.md",
     "Untitled.md",
@@ -96,7 +97,6 @@
     "hedge criterion.md",
     "PC algorithm.md",
     "inverse transform sampling.md",
-    "mcmc.md",
-    "accept-reject sampling.md"
+    "mcmc.md"
   ]
 }
