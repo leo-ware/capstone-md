@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "causal discovery.md",
+            "file": "counterfactuals.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "causal discovery.md",
+                "file": "counterfactuals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "e3931179970f79b8",
   "lastOpenFiles": [
+    "Untitled.md",
     "causal discovery.md",
+    "causal trees & forests.md",
+    "hedge criterion.md",
     "PC algorithm.md",
     "inverse transform sampling.md",
-    "Untitled.md",
     "mcmc.md",
     "accept-reject sampling.md",
     "markov equivalence.md",
-    "local markov assumption.md",
-    "PC causal discovery algorithm.md",
-    "faithfulness.md"
+    "local markov assumption.md"
   ]
 }

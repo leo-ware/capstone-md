@@ -1,4 +1,4 @@
-#discovery
+#discovery #go-deeper
 
 We have some data, we want to make a causal graph
 
@@ -14,5 +14,6 @@ Two main approaches
 - semi-parametric
 	- you can't do better than the [[markov equivalence]] class in the linear Gaussian noise setting
 	- if you have a linear functional form with non-Gaussian noise,  or a nonlinear functional form with additive noise, you can get the direction
+- intervention based
 
 Neal recommends (Eberhardt, 2017) as a good review article
