@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "open questions & potential $$$.md",
+            "file": "causal discovery.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "SAT",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "open questions & potential $$$.md",
+                "file": "causal discovery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +89,7 @@
   },
   "active": "e2d45f7e71777be2",
   "lastOpenFiles": [
+    "causal discovery.md",
     "open questions & potential $$$.md",
     "matching.md",
     "Untitled.md",
@@ -96,7 +98,6 @@
     "mediation.md",
     "resources/causalcourse.com.md",
     "computing counterfactuals.md",
-    "structural models.md",
-    "causal discovery.md"
+    "structural models.md"
   ]
 }
