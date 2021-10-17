@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "heterogeneous treatment effects.md",
+            "file": "causal trees & forests.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "heterogeneous treatment effects.md",
+                "file": "causal trees & forests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +88,13 @@
   },
   "active": "e2d45f7e71777be2",
   "lastOpenFiles": [
+    "causal trees & forests.md",
     "heterogeneous treatment effects.md",
     "causal discovery.md",
     "open questions & potential $$$.md",
     "matching.md",
     "Untitled.md",
     "hedge criterion.md",
-    "causal trees & forests.md",
     "mediation.md",
     "resources/causalcourse.com.md",
     "computing counterfactuals.md"
