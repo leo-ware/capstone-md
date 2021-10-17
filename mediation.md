@@ -1,4 +1,15 @@
 We have a T which influences Y directly and via a set of mediating variables M. We want to measure what parts of the effect of T on Y are *direct* and which parts are *indirect*.
 
-You get the controlled direct effect (CDE) by setting the mediators: p(Y | T, do(M)). This is not great because we are limited to measuring the effect only for specific values of M. Also, this doesn't give us a way to get the indirect effect.
+You get the controlled direct effect (CDE) by setting the mediators constant and moving the treatment.
 
+$$CDE = E(Y | do(T=1, M)) - E(Y | do(T=0, M))$$
+
+This is not great because we are limited to measuring the effect only for specific values of M. Also, this doesn't give us a way to get the indirect effect.
+
+A modification is called the natural direct effect (NDE). Instead of setting M to an arbitrary value, you set it to the expected value, given $do(T=0)$
+
+$$MDE = E(Y | do(T=1, M=E(M | do(T=0)))) - E(Y | do(T=0, M=E(M | do(T=0))))$$
+
+We can extend this to calculate the indirect effect by setting T=0 and then manipulating M to be either its expected value given that T=0 or its expected value given that T=1.
+
+$$MDE = E(Y | do(T=1, M=E(M | do(T=0)))) - E(Y | do(T=0, M=E(M | do(T=0))))$$
