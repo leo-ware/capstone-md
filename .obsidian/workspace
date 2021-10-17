@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "matching.md",
+            "file": "open questions & potential $$$.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "matching.md",
+                "file": "open questions & potential $$$.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "e2d45f7e71777be2",
   "lastOpenFiles": [
+    "open questions & potential $$$.md",
     "matching.md",
     "Untitled.md",
     "hedge criterion.md",
@@ -96,7 +97,6 @@
     "resources/causalcourse.com.md",
     "computing counterfactuals.md",
     "structural models.md",
-    "causal discovery.md",
-    "PC algorithm.md"
+    "causal discovery.md"
   ]
 }
