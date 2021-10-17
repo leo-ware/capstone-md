@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "rejection sampling.md",
+            "file": "mcmc.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rejection sampling.md",
+                "file": "mcmc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "e3931179970f79b8",
   "lastOpenFiles": [
+    "mcmc.md",
     "accept-reject sampling.md",
     "Untitled.md",
     "causal discovery.md",
@@ -96,7 +97,6 @@
     "PC algorithm.md",
     "PC causal discovery algorithm.md",
     "faithfulness.md",
-    "partial identification.md",
-    "sensitivity analysis.md"
+    "partial identification.md"
   ]
 }

@@ -16,18 +16,33 @@ $$
 D(S | A) = {P(A | S)D(S) \over P(A)}
 $$
 
-Plug shit in:
-
-$$
-D(S | A) = {{f(s) \over Mg(S)} g(S) \over P(A)}
-$$
-
-But $P(A)$ will just be the integral of the probability of sampling times the probability of acceptance over all possible values of $s$.
+Let's think about $P(A)$. This will just be the integral of the probability of sampling times the probability of acceptance over all possible values of $s$.
 
 $$
 \int_{-\infty}^{\infty} g(s) {f(s) \over M g(s)} ds =
 {1 \over M} \int_{-\infty}^{\infty} f(s) ds
 $$
 
-We have:
+Let $NC$ represent the normalizing constant of $f$.
 
+$$\int_{-\infty}^{\infty} f ds = NC$$
+
+Then we can simplify the above to get:
+
+$$
+P(A) = {NC \over M}
+$$
+
+Plug shit in:
+
+$$
+D(S | A) = {{f(s) \over Mg(S)} g(S) \over {NC \over M}}
+$$
+
+Then,
+
+$$
+D(S | A) = {f(s) \over NC}
+$$
+
+So, $D(S | A)$ is the normalized version of $f(s)$. QED
