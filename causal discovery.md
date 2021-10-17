@@ -12,4 +12,7 @@ Two main approaches
 		- [[CCD algorithm]] allows cyclic graphs
 		- [[SAT-base causal discovery]] is the chad
 - semi-parametric
-	- if you have a linear functional form with nongaussian noise, you can get the direction
+	- you can't do better than the [[markov equivalence]] class in the linear Gaussian noise setting
+	- if you have a linear functional form with non-Gaussian noise,  or a nonlinear functional form with additive noise, you can get the direction
+
+Neal recommends (Eberhardt, 2017) as a good review article
