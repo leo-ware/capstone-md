@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "inverse transform sampling.md",
+            "file": "PC algorithm.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inverse transform sampling.md",
+                "file": "PC algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "e3931179970f79b8",
   "lastOpenFiles": [
-    "inverse transform sampling.md",
     "PC algorithm.md",
+    "inverse transform sampling.md",
     "Untitled.md",
     "mcmc.md",
     "accept-reject sampling.md",
