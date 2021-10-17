@@ -18,4 +18,4 @@ $$pT = p$$
 
 There are a couple techniques for finding a markov chain like this.
 - Metropolis-Hastings samples from a distribution centered at zero. It adds this sample to the current value $a$ to get a candidate next value $b$. It accepts the next value with probability ${p(b)T(b | a) \over p(a)T(a | b)}$ where $p$ is our likelihood and $T$ is our transition function.
-- 
+- Gibbs sampling is for when sampling from a multivariable distribution is expensive, but samplein
