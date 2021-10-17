@@ -6,4 +6,4 @@ You get the skeleton of a graph by turning directed edges into undirected edges.
 
 Two graphs are Markov equivalent iff they have the same skeleton and the same immoralities. The *essential graph* is the immoralities and the skeleton, which specifies an equivalence class.
 
-Math: For any distribution on two random variables, there an exists a [[structural models]] that is consistent with the data for each possible direction of causation.
+Math: For any distribution on two random variables, there an exists a [[structural model]] that is consistent with the data for each possible direction of causation.
