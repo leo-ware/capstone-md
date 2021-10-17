@@ -2,10 +2,18 @@ markov-chain monte carlo #sampling
 
 In [[rejection sampling]], we face issues when the probability of acceptance gets too low. We have trouble "finding" value of $p(x)$. MCMC says that this is because we are throwing away information. Whenever we get a sample with a high probability of acceptance, it is probably a good idea to look around in the same are because we might be able to get more samples there.
 
-So, we want find a markov chain whose stationary distribution is $p(x)$. It turns out we can use something called the stationary balance condition. Let $T(a | b)$ represent the probability that a markov chain $M$ transitions to state $a$, given that it is in state $b$. Then the stationary balance condition is:
+So, we want find a markov chain whose stationary distribution is $p(x)$. It turns out we can use something called the detailed balance condition. Let $T(a | b)$ represent the probability that a markov chain $M$ transitions to state $a$, given that it is in state $b$. Then the detailed balance condition is:
 
 $$
 p(x)T(y | x) = p(y)T(x | y)
 $$
 
-If this holds, then the stationary distribution of $M$ is $p(x)$. This holds because:
+If this holds, then the stationary distribution of $M$ is $p(x)$. Proof:
+
+$$
+\sum_x p(x)T(y | x) = \sum_x p(y)T(x | y)
+$$
+
+$$
+pT = p
+$$
