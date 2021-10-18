@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "double machine learning.md",
+            "file": "open questions & potential $$$.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SAT",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "double machine learning.md",
+                "file": "open questions & potential $$$.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,11 +88,11 @@
   },
   "active": "e2d45f7e71777be2",
   "lastOpenFiles": [
+    "open questions & potential $$$.md",
     "double machine learning.md",
     "causal trees & forests.md",
     "heterogeneous treatment effects.md",
     "causal discovery.md",
-    "open questions & potential $$$.md",
     "matching.md",
     "Untitled.md",
     "hedge criterion.md",
