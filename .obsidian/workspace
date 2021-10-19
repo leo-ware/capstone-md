@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "open questions & potential $$$.md",
-            "mode": "source"
+            "file": "local markov assumption.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "open questions & potential $$$.md",
+                "file": "local markov assumption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "e2d45f7e71777be2",
   "lastOpenFiles": [
-    "open questions & potential $$$.md",
-    "double machine learning.md",
-    "causal trees & forests.md",
-    "heterogeneous treatment effects.md",
+    "local markov assumption.md",
+    "partial identification.md",
+    "sensitivity analysis.md",
+    "instrument variables.md",
+    "propensity score.md",
     "causal discovery.md",
-    "matching.md",
-    "Untitled.md",
-    "hedge criterion.md",
-    "mediation.md",
-    "resources/causalcourse.com.md"
+    "inverse transform sampling.md",
+    "mcmc.md",
+    "open questions & potential $$$.md",
+    "double machine learning.md"
   ]
 }
