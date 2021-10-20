@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "local markov assumption.md",
+            "file": "mcmc.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mcmc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "local markov assumption.md",
+                "file": "mcmc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +89,7 @@
   },
   "active": "e2d45f7e71777be2",
   "lastOpenFiles": [
+    "mcmc.md",
     "local markov assumption.md",
     "partial identification.md",
     "sensitivity analysis.md",
@@ -95,7 +97,6 @@
     "propensity score.md",
     "causal discovery.md",
     "inverse transform sampling.md",
-    "mcmc.md",
     "open questions & potential $$$.md",
     "double machine learning.md"
   ]
