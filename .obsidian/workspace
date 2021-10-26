@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mcmc.md",
+            "file": "pseudodataset.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mcmc",
+                "query": "tag:#question",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mcmc.md",
+                "file": "pseudodataset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "e2d45f7e71777be2",
   "lastOpenFiles": [
-    "mcmc.md",
-    "local markov assumption.md",
-    "partial identification.md",
+    "pseudodataset.md",
+    "g-computation.md",
+    "counterfactuals.md",
+    "faithfulness.md",
     "sensitivity analysis.md",
-    "instrument variables.md",
-    "propensity score.md",
-    "causal discovery.md",
-    "inverse transform sampling.md",
-    "open questions & potential $$$.md",
-    "double machine learning.md"
+    "unconfounded children criterion.md",
+    "doubly robust estimator.md",
+    "mediation.md",
+    "heterogeneous treatment effects.md",
+    "open questions & potential $$$.md"
   ]
 }
