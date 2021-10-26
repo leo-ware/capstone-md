@@ -9,4 +9,6 @@
 - do medium articles for each
 - hs contacts
 - talk to brady neal
-- 
+- mediation, heterogenous effects more studied
+- look into imputation using ML
+- target randomized experiments
