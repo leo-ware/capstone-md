@@ -1,0 +1,7 @@
+- positivity unconfoundedness tradeoff?
+- pseudodatasets
+	- matching multiple controls to the same treatment in genetic matching
+	- why not direct optimization on the balance condition?
+- what is doulbe machine learning?
+- heterogenous treatment effects connection to causal inference
+- suggestions from sharma

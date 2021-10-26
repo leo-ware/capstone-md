@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pseudodataset.md",
-            "mode": "preview"
+            "file": "hadavand notes.md",
+            "mode": "source"
           }
         }
       }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pseudodataset.md",
+                "file": "hadavand notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +88,15 @@
   },
   "active": "e2d45f7e71777be2",
   "lastOpenFiles": [
+    "hadavand notes.md",
+    "PC algorithm.md",
+    "double machine learning.md",
+    "positivity vs unconfoundedness tradeoff.md",
     "pseudodataset.md",
     "g-computation.md",
     "counterfactuals.md",
     "faithfulness.md",
     "sensitivity analysis.md",
-    "unconfounded children criterion.md",
-    "doubly robust estimator.md",
-    "mediation.md",
-    "heterogeneous treatment effects.md",
-    "open questions & potential $$$.md"
+    "unconfounded children criterion.md"
   ]
 }
