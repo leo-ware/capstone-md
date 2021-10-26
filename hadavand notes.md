@@ -8,4 +8,5 @@
 
 - do medium articles for each
 - hs contacts
+- talk to brady neal
 - 
