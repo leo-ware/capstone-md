@@ -5,3 +5,7 @@
 - what is doulbe machine learning?
 - heterogenous treatment effects connection to causal inference
 - suggestions from sharma
+
+- do medium articles for each
+- hs contacts
+- 
