@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "hadavand notes.md",
+            "file": "meeting notes/hadavand notes 10-26-21.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hadavand notes.md",
+                "file": "meeting notes/hadavand notes 10-26-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,8 @@
   },
   "active": "e2d45f7e71777be2",
   "lastOpenFiles": [
-    "hadavand notes.md",
+    "meeting notes/hadavand notes 10-26-21.md",
+    "open questions & potential $$$.md",
     "PC algorithm.md",
     "double machine learning.md",
     "positivity vs unconfoundedness tradeoff.md",
@@ -96,7 +97,6 @@
     "g-computation.md",
     "counterfactuals.md",
     "faithfulness.md",
-    "sensitivity analysis.md",
-    "unconfounded children criterion.md"
+    "sensitivity analysis.md"
   ]
 }

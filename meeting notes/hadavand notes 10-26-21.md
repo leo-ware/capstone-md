@@ -1,3 +1,4 @@
+Questions:
 - positivity unconfoundedness tradeoff?
 - pseudodatasets
 	- matching multiple controls to the same treatment in genetic matching
@@ -6,6 +7,7 @@
 - heterogenous treatment effects connection to causal inference
 - suggestions from sharma
 
+Answers:
 - do medium articles for each
 - hs contacts
 - talk to brady neal
