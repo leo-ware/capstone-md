@@ -1,1 +1,1 @@
-the fancy man's way of saying causal graph
+The fancy man's way of saying causal graph. Usually what we care about with these is what independencies they imply.
