@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "meeting notes/hadavand notes 10-26-21.md",
+            "file": "latent structure.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meeting notes/hadavand notes 10-26-21.md",
+                "file": "latent structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "e2d45f7e71777be2",
   "lastOpenFiles": [
+    "latent structure.md",
     "meeting notes/hadavand notes 10-26-21.md",
     "open questions & potential $$$.md",
     "PC algorithm.md",
@@ -96,7 +97,6 @@
     "pseudodataset.md",
     "g-computation.md",
     "counterfactuals.md",
-    "faithfulness.md",
-    "sensitivity analysis.md"
+    "faithfulness.md"
   ]
 }
