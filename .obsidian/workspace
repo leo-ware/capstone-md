@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "latent structure.md",
+            "file": "simplicity.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "latent structure.md",
+                "file": "simplicity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "e2d45f7e71777be2",
   "lastOpenFiles": [
+    "simplicity.md",
     "latent structure.md",
+    "causal structure.md",
     "meeting notes/hadavand notes 10-26-21.md",
     "open questions & potential $$$.md",
     "PC algorithm.md",
     "double machine learning.md",
     "positivity vs unconfoundedness tradeoff.md",
     "pseudodataset.md",
-    "g-computation.md",
-    "counterfactuals.md",
-    "faithfulness.md"
+    "g-computation.md"
   ]
 }
