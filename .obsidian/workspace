@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "minimality.md",
+            "file": "meeting notes/diamond 1-11-2021.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "minimality.md",
+                "file": "meeting notes/diamond 1-11-2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "e2d45f7e71777be2",
   "lastOpenFiles": [
+    "meeting notes/diamond 1-11-2021.md",
     "minimality.md",
     "causal structure.md",
     "latent structure.md",
@@ -96,7 +97,6 @@
     "PC algorithm.md",
     "double machine learning.md",
     "positivity vs unconfoundedness tradeoff.md",
-    "pseudodataset.md",
-    "g-computation.md"
+    "pseudodataset.md"
   ]
 }
