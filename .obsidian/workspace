@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "consistency assumption.md",
+            "file": "causal model.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "consistency assumption.md",
+                "file": "causal model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "e2d45f7e71777be2",
   "lastOpenFiles": [
+    "causal model.md",
+    "latent structure.md",
+    "Untitled.md",
+    "causal structure.md",
+    "inferred causation.md",
     "consistency assumption.md",
+    "stability.md",
     "modularity assumption.md",
     "SUTVA.md",
-    "inferred causation.md",
-    "minimality.md",
-    "local markov assumption.md",
-    "latent structure.md",
-    "collider bias.md",
-    "identification.md",
-    "positivity vs unconfoundedness tradeoff.md"
+    "minimality.md"
   ]
 }

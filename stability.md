@@ -1,0 +1,1 @@
+a [[causal model]] is table if [[latent structure]]
