@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "inferred causation.md",
+            "file": "consistency assumption.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sutva",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inferred causation.md",
+                "file": "consistency assumption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "e2d45f7e71777be2",
   "lastOpenFiles": [
+    "consistency assumption.md",
+    "modularity assumption.md",
+    "SUTVA.md",
     "inferred causation.md",
     "minimality.md",
     "local markov assumption.md",
     "latent structure.md",
     "collider bias.md",
     "identification.md",
-    "positivity vs unconfoundedness tradeoff.md",
-    "modularity assumption.md",
-    "propensity score.md",
-    "double machine learning.md"
+    "positivity vs unconfoundedness tradeoff.md"
   ]
 }
