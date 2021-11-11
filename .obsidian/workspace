@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "local markov assumption.md",
+            "file": "minimality.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "local markov assumption.md",
+                "file": "minimality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "e2d45f7e71777be2",
   "lastOpenFiles": [
+    "minimality.md",
     "local markov assumption.md",
     "collider bias.md",
     "identification.md",
@@ -96,7 +97,6 @@
     "propensity score.md",
     "double machine learning.md",
     "partial identification.md",
-    "rejection sampling.md",
-    "inverse transform sampling.md"
+    "rejection sampling.md"
   ]
 }
