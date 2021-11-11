@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "meeting notes/diamond 1-11-2021.md",
+            "file": "collider bias.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meeting notes/diamond 1-11-2021.md",
+                "file": "collider bias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "e2d45f7e71777be2",
   "lastOpenFiles": [
-    "meeting notes/diamond 1-11-2021.md",
-    "minimality.md",
-    "causal structure.md",
-    "latent structure.md",
-    "meeting notes/hadavand notes 10-26-21.md",
-    "open questions & potential $$$.md",
-    "PC algorithm.md",
-    "double machine learning.md",
+    "collider bias.md",
+    "identification.md",
     "positivity vs unconfoundedness tradeoff.md",
-    "pseudodataset.md"
+    "modularity assumption.md",
+    "propensity score.md",
+    "double machine learning.md",
+    "partial identification.md",
+    "local markov assumption.md",
+    "rejection sampling.md",
+    "inverse transform sampling.md"
   ]
 }
