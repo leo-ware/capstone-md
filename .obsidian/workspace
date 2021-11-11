@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "collider bias.md",
+            "file": "local markov assumption.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#question",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "collider bias.md",
+                "file": "local markov assumption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "e2d45f7e71777be2",
   "lastOpenFiles": [
+    "local markov assumption.md",
     "collider bias.md",
     "identification.md",
     "positivity vs unconfoundedness tradeoff.md",
@@ -95,7 +96,6 @@
     "propensity score.md",
     "double machine learning.md",
     "partial identification.md",
-    "local markov assumption.md",
     "rejection sampling.md",
     "inverse transform sampling.md"
   ]
