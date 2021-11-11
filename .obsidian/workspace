@@ -89,14 +89,14 @@
   "active": "e2d45f7e71777be2",
   "lastOpenFiles": [
     "stability.md",
+    "PC algorithm.md",
+    "local markov assumption.md",
     "causal structure.md",
     "causal model.md",
     "minimality.md",
     "latent structure.md",
     "Untitled.md",
     "inferred causation.md",
-    "consistency assumption.md",
-    "modularity assumption.md",
-    "SUTVA.md"
+    "consistency assumption.md"
   ]
 }

@@ -1,5 +1,7 @@
 #discovery 
 
+polynomial time!
+
 - identify the skeleton
 	- condition on sets of size 0, 1...n
 	- see what independencies arise
