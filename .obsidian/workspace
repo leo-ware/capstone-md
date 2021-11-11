@@ -91,12 +91,12 @@
     "inferred causation.md",
     "minimality.md",
     "local markov assumption.md",
+    "latent structure.md",
     "collider bias.md",
     "identification.md",
     "positivity vs unconfoundedness tradeoff.md",
     "modularity assumption.md",
     "propensity score.md",
-    "double machine learning.md",
-    "partial identification.md"
+    "double machine learning.md"
   ]
 }
