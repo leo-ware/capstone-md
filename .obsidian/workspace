@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "causal model.md",
+            "file": "causal structure.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "causal model.md",
+                "file": "causal structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "e2d45f7e71777be2",
   "lastOpenFiles": [
+    "causal structure.md",
     "causal model.md",
+    "minimality.md",
     "latent structure.md",
     "Untitled.md",
-    "causal structure.md",
     "inferred causation.md",
     "consistency assumption.md",
     "stability.md",
     "modularity assumption.md",
-    "SUTVA.md",
-    "minimality.md"
+    "SUTVA.md"
   ]
 }
