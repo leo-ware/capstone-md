@@ -11,3 +11,9 @@ Right now, I'm focused more on studying the process of design than implementing 
 ![[Pasted image 20211118183235.png]]
 I will teach about different brainstorming techniques.
 
+![[Pasted image 20211118183455.png]]
+
+I have chosen to focus on \#designthinking and \#critique. These tie very closely to ideas about the design process and iterative creation. So, I think they are very relevant.
+
+![[Pasted image 20211118183616.png]]
+I don't really have any questions right now.

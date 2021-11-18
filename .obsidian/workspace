@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "thing.md",
-            "mode": "source"
+            "file": "preclass 18 november.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thing.md",
+                "file": "preclass 18 november.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
   },
   "active": "e2d45f7e71777be2",
   "lastOpenFiles": [
-    "thing.md",
+    "preclass 18 november.md",
     "IC algorithm.md",
     "stability.md",
     "PC algorithm.md",
