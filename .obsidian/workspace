@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "preclass 18 november.md",
+            "file": "instrument variables.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "fe1ee6e459a61ded",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "frontdoor adjustment.md",
             "mode": "preview"
           }
         }
@@ -39,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sutva",
+                "query": "inst",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "preclass 18 november.md",
+                "file": "instrument variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +99,15 @@
   },
   "active": "e2d45f7e71777be2",
   "lastOpenFiles": [
+    "instrument variables.md",
+    "frontdoor adjustment.md",
+    "sufficient adjustment set.md",
     "preclass 18 november.md",
     "IC algorithm.md",
     "stability.md",
     "PC algorithm.md",
     "local markov assumption.md",
     "causal structure.md",
-    "causal model.md",
-    "minimality.md",
-    "latent structure.md",
-    "inferred causation.md"
+    "causal model.md"
   ]
 }
