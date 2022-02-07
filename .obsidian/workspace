@@ -9,19 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "instrument variables.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "fe1ee6e459a61ded",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "frontdoor adjustment.md",
-            "mode": "preview"
+            "file": "open questions & potential $$$.md",
+            "mode": "source"
           }
         }
       }
@@ -50,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inst",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 255
   },
   "right": {
     "id": "b9c54dc623c52e19",
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "instrument variables.md",
+                "file": "open questions & potential $$$.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +88,15 @@
   },
   "active": "e2d45f7e71777be2",
   "lastOpenFiles": [
+    "open questions & potential $$$.md",
+    "nonparametric mediation effects.md",
+    "linear mediation effects.md",
+    "imai generalized mediation.md",
+    "sequential ignorability.md",
+    "controlled and natural mediation effects.md",
+    "attachments/Pasted image 20211017170233.png",
     "instrument variables.md",
     "frontdoor adjustment.md",
-    "sufficient adjustment set.md",
-    "preclass 18 november.md",
-    "IC algorithm.md",
-    "stability.md",
-    "PC algorithm.md",
-    "local markov assumption.md",
-    "causal structure.md",
-    "causal model.md"
+    "sufficient adjustment set.md"
   ]
 }

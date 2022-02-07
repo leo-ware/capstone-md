@@ -5,4 +5,4 @@ The only way to get a unit-level counterfactual is a parametric [[structural mod
 At the population level, we can do better. Malinsky, et al. (2019) suggest a generalization of [[do-calculus]] called [[potential outcomes  calculus]] for identifying counterfactual estimands.
 #go-deeper 
 
-The most important application of counterfactuals is [[mediation]]
+The most important application of counterfactuals is [[controlled and natural mediation effects]]

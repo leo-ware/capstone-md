@@ -31,7 +31,7 @@ The total effect $TE$ is equal to the sum of these. (proof?)
 ## measuring natural effects
 
 If we have an adjustment set W such that:
-- no W is a descendent of T
+- no W is a descendant of T
 - W blocks all backdoor paths from M to Y
 
 Then we can use the following experimental quantity,

@@ -39,7 +39,11 @@
     "counterfactuals",
     "estimands",
     "mathy",
-    "parametrization"
+    "parametrization",
+    "unobservable",
+    "pretreatment",
+    "Imai",
+    "imai"
   ],
   "fileSortOrder": "byModifiedTime"
 }
