@@ -4,3 +4,4 @@
 - programmatic aggregation of assumptions, esp in id---there will be several statistical estimands corresponding to a given causal one, can we compare the assumptions required for each? suggest tests? use them to check each other?
 - applications in bioinfomatics --- esp gains from *much* faster algorithms
 - experiment design tools: what kind of information would you need to make this graph identifiable
+- shinystan but for python
