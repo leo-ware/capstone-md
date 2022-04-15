@@ -7,10 +7,9 @@
         "id": "e2d45f7e71777be2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "g-computation.md",
-            "mode": "preview"
+            "file": "cp-resources/imai-identify-mediation.pdf"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "g-computation.md",
+                "file": "cp-resources/imai-identify-mediation.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +87,7 @@
   },
   "active": "e2d45f7e71777be2",
   "lastOpenFiles": [
+    "cp-resources/imai-identify-mediation.pdf",
     "g-computation.md",
     "open questions & potential $$$.md",
     "nonparametric mediation effects.md",
@@ -96,7 +96,6 @@
     "sequential ignorability.md",
     "controlled and natural mediation effects.md",
     "attachments/Pasted image 20211017170233.png",
-    "instrument variables.md",
-    "frontdoor adjustment.md"
+    "instrument variables.md"
   ]
 }
