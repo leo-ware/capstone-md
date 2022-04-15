@@ -7,9 +7,10 @@
         "id": "e2d45f7e71777be2",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "cp-resources/imai-identify-mediation.pdf"
+            "file": "people/Amit Sharma.md",
+            "mode": "source"
           }
         }
       }
@@ -38,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "do",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -47,11 +48,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 255
+    "width": 377
   },
   "right": {
     "id": "b9c54dc623c52e19",
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cp-resources/imai-identify-mediation.pdf",
+                "file": "people/Amit Sharma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +89,7 @@
   },
   "active": "e2d45f7e71777be2",
   "lastOpenFiles": [
+    "people/Amit Sharma.md",
     "cp-resources/imai-identify-mediation.pdf",
     "g-computation.md",
     "open questions & potential $$$.md",
@@ -95,7 +98,6 @@
     "imai generalized mediation.md",
     "sequential ignorability.md",
     "controlled and natural mediation effects.md",
-    "attachments/Pasted image 20211017170233.png",
-    "instrument variables.md"
+    "attachments/Pasted image 20211017170233.png"
   ]
 }
