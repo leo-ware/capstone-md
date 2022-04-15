@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "open questions & potential $$$.md",
-            "mode": "source"
+            "file": "g-computation.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "open questions & potential $$$.md",
+                "file": "g-computation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "e2d45f7e71777be2",
   "lastOpenFiles": [
+    "g-computation.md",
     "open questions & potential $$$.md",
     "nonparametric mediation effects.md",
     "linear mediation effects.md",
@@ -96,7 +97,6 @@
     "controlled and natural mediation effects.md",
     "attachments/Pasted image 20211017170233.png",
     "instrument variables.md",
-    "frontdoor adjustment.md",
-    "sufficient adjustment set.md"
+    "frontdoor adjustment.md"
   ]
 }
