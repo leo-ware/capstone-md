@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "people/Amit Sharma.md",
+            "file": "do-calculus.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "do",
+                "query": "do cal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "people/Amit Sharma.md",
+                "file": "do-calculus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "e2d45f7e71777be2",
   "lastOpenFiles": [
+    "do-calculus.md",
     "people/Amit Sharma.md",
     "cp-resources/imai-identify-mediation.pdf",
     "g-computation.md",
@@ -97,7 +98,6 @@
     "linear mediation effects.md",
     "imai generalized mediation.md",
     "sequential ignorability.md",
-    "controlled and natural mediation effects.md",
-    "attachments/Pasted image 20211017170233.png"
+    "controlled and natural mediation effects.md"
   ]
 }
