@@ -48,12 +48,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 377
+    "width": 377,
+    "collapsed": true
   },
   "right": {
     "id": "b9c54dc623c52e19",
