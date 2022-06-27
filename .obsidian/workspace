@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "do-calculus.md",
+            "file": "truncated factorization.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377,
-    "collapsed": true
+    "width": 377
   },
   "right": {
     "id": "b9c54dc623c52e19",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "do-calculus.md",
+                "file": "truncated factorization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +88,15 @@
   },
   "active": "e2d45f7e71777be2",
   "lastOpenFiles": [
+    "truncated factorization.md",
+    "instrument variables.md",
+    "people/Judea Pearl.md",
+    "people/Aboozar Hadavand.md",
+    "open questions & potential $$$.md",
+    "nonparametric mediation effects.md",
     "do-calculus.md",
     "people/Amit Sharma.md",
     "cp-resources/imai-identify-mediation.pdf",
-    "g-computation.md",
-    "open questions & potential $$$.md",
-    "nonparametric mediation effects.md",
-    "linear mediation effects.md",
-    "imai generalized mediation.md",
-    "sequential ignorability.md",
-    "controlled and natural mediation effects.md"
+    "g-computation.md"
   ]
 }
